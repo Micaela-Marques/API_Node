@@ -24,6 +24,7 @@
   ---
   <h3 align="center">Projeto ⚙️</h3>
   <p>
+    - **NodeJS**
     - **Cadastro de úsuario**
     - **Validação de e-mail**
     - **Exclusão de usuario**
