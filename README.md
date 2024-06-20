@@ -28,7 +28,7 @@
 - **Validação de e-mail**
 - **Exclusão de usuario**
 - **Atualização de usuario, senha e email**
-- ** Cadastro de Notas e tags referentes a filmes (Nome, descrição, nota, tag)**
+- **Cadastro de Notas e tags referentes a filmes (Nome, descrição, nota, tag)**
 - **Listar notas e tags**
 - **exclusão de notas e tags em modo "CASCADE"**
     
