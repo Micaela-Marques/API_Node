@@ -4,11 +4,6 @@
 </p>
 
 
-   
-  <img alt="Projeto" src="./assets/tabela vazia.png">
-
-
-
 <!--  -->
 
 
@@ -27,6 +22,14 @@
 
   
   ---
-  <h3 align="center">Projeto💻 </h3>
-  <p>Acesse o projeto em <a href="https://rocket-notes-snowy.vercel.app/"> site🌐
+  <h3 align="center">Projeto ⚙️</h3>
+  <p>
+    -**Cadastro de úsuario**
+    -**Validação de e-mail**
+    -**Exclusão de usuario**
+    -**Atualização de usuario, senha e email**
+    -** Cadastro de Notas e tags referentes a filmes (Nome, descrição, nota, tag)**
+    -**Listar notas e tags**
+    -**exclusão de notas e tags em modo "CASCADE"**
+    
   </p>
