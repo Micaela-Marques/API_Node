@@ -23,8 +23,7 @@
   
   ---
   <h3 align="center">Projeto ⚙️</h3>
-  <p>
-    - **NodeJS**
+
     - **Cadastro de úsuario**
     - **Validação de e-mail**
     - **Exclusão de usuario**
@@ -33,4 +32,4 @@
     - **Listar notas e tags**
     - **exclusão de notas e tags em modo "CASCADE"**
     
-  </p>
+  
